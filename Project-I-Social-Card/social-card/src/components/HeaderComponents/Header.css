@@ -1,1 +1,27 @@
 /* All styles for your header Components live here */
+.thumbnail {
+    height: 40px;
+    width: 40px;
+}
+
+.Header-Main-Container {
+    width: calc(100% - 50px);
+    display: flex;
+    padding-left: 10px;
+}
+.Header-Main-Container h3 {
+    margin-bottom: 10px;
+    font-size: 1.6rem;
+    letter-spacing: .76px;
+    font-weight: 700;
+}
+
+.Header-Main-Container h3 > span {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: rgb(141, 141, 141);
+}
+.Header-Main-Container p {
+    font-size: 1.6rem;
+    line-height: 1.2;
+}

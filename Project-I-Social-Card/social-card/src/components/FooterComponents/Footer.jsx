@@ -20,7 +20,6 @@ class Footer extends Component {
         <footer className="Footer">
             <div className="IconHolder">
                 <i className="far fa-comment"></i>
-
             </div>
             <div className="IconHolder">
                 <i onClick={this.incrementRefreshCount} className="fas fa-sync-alt"> {this.state.refreshCount}</i>
@@ -37,3 +36,6 @@ class Footer extends Component {
 }
 
 export default Footer;
+
+
+

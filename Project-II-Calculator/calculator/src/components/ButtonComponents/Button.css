@@ -1,0 +1,20 @@
+button {
+    height: 9rem;
+    font-size: 6rem;
+    font-weight: 300;
+    padding-bottom: 10px;
+}
+
+.NumberBtn {
+    width: 24.8%;
+    background-color: white;
+}
+.ActionBtn {
+    width: 74.5%;
+    background-color: white;
+}
+.OperatorBtn {
+    width: 25.5%;
+    background-color: darkred;
+    color: white;
+}

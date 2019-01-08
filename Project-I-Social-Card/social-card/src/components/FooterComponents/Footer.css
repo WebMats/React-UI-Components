@@ -1,0 +1,18 @@
+.Footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 120px;
+    margin-left: 5px;
+}
+
+.IconHolder * {
+    color: rgb(131, 131, 131);
+    transform: scale(1.4);
+}
+
+.IconHolder {
+    display: inline;
+    height: 80px;
+    width: 80px;
+}

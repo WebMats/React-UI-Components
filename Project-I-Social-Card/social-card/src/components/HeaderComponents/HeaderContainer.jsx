@@ -11,7 +11,7 @@ const header = () => (
     <header>
         <main className="Header-Main-Container">
             <Img />
-        <div style={{marginLeft:'10px'}}>
+        <div>
             <HeaderTitle />
             <HeaderContent />
         </div>

@@ -2,12 +2,12 @@
 .thumbnail {
     height: 40px;
     width: 40px;
+    margin-left: -40px;
+    margin-right: 10px;
 }
 
 .Header-Main-Container {
-    width: calc(100% - 50px);
     display: flex;
-    padding-left: 10px;
 }
 .Header-Main-Container h3 {
     margin-bottom: 10px;

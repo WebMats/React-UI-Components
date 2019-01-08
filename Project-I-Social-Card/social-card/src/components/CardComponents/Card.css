@@ -1,1 +1,41 @@
 /* All styles for your Card Components live here */
+.CardContainer {
+    border-radius: 4px;
+    margin: 0 12px;
+    margin-top: 10px;   
+}
+.CardBannerHolder {
+    overflow: hidden;
+    width: 100%;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    height: 25.2rem;
+}
+.CardContainer .CardBannerHolder > img {
+    width: 100%;
+    transform: scale(1.5);
+}
+
+.CardContent {
+    padding: 14px;
+    border: 1px solid #ccc;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.CardContent h3 {
+    font-size: 1.6rem;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+.CardContent p {
+    font-size: 1.6rem;
+    line-height: 1.2;
+}
+
+.CardContent span {
+    font-size: 1.6rem;
+    color: rgb(141, 141, 141);
+    margin-top: 3px;
+}

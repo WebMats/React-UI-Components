@@ -30,7 +30,6 @@ class Footer extends Component {
             </div>
             <div className="IconHolder">
                 <i className="far fa-envelope"></i>
-
             </div>
         </footer>
     )

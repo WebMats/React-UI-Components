@@ -1,0 +1,8 @@
+.App {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 80px;
+    border: 2px solid rgb(133, 133, 133);
+    display: flex;
+    flex-wrap: wrap;
+}

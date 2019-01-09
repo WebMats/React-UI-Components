@@ -1,0 +1,10 @@
+.Display {
+    width: 100%;
+    background-color: rgb(24, 24, 24);
+    height: 12.5rem;
+    text-align: end;
+    font-size: 8rem;
+    color: white;
+    padding: 2.4rem 1rem;
+    border-bottom: 2px solid rgb(133, 133, 133);
+}
